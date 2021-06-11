@@ -1,0 +1,37 @@
+#items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+#items div{
+  margin: 4% 1%;
+}
+
+
+h1 {
+  font-style: normal;
+  font-size: 60px;
+  color: #680018;
+  background-color: #ffce8e9c;
+  text-align: center;
+  text-shadow: white 1px 1px;
+  text-decoration: underline;
+  /*GRADIENTE*/
+  background: #8a4e05;
+  background: radial-gradient(circle, rgba(138, 78, 5, 0.8) 0%, rgba(255, 255, 255, 0.77) 33%, rgba(255, 196, 0, 0.6) 61%); }
+
+
+
+body {
+  background-image: url("../img/fondo.jpg");
+  font-style: normal;
+  background-color: rgba(174, 223, 154, 0.6);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+
+
+
