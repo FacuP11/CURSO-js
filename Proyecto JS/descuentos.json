@@ -1,0 +1,16 @@
+[
+    {
+        "Tipo":"chihuahua",
+        "Porcentaje":10,
+        "Mensaje":"Tienes un pequeño descuento"},
+    {
+        "Tipo":"beagle",
+        "Porcentaje":20,
+        "Mensaje":"Tienes un mediano descuento"
+    },
+    {
+        "Tipo":"gran danes",
+        "Porcentaje":40,
+        "Mensaje":"Tienes un gran descuento"
+    }
+]

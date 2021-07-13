@@ -1,0 +1,84 @@
+.boxBody div{
+  padding: 3% 0%;
+}
+
+.boxBody div div{
+  margin: 4% 1%;
+  display: flex;
+
+}
+.row{
+  justify-content: space-between;
+}
+
+.float-left{
+  cursor:pointer;
+}
+
+.carritoBox{
+  display: block  ;
+}
+
+h1 {
+  margin-top: 10px;
+  font-style: normal;
+  font-size: 60px;
+  color: #680018;
+  background-color: #ffce8e9c;
+  text-align: center;
+  text-shadow: white 1px 1px;
+  text-decoration: underline;
+  /*GRADIENTE*/
+  background: #8a4e05;
+  background: radial-gradient(circle, rgba(138, 78, 5, 0.8) 0%, rgba(255, 255, 255, 0.77) 33%, rgba(255, 196, 0, 0.6) 61%); }
+
+
+
+body {
+  background-image: url("../img/fondo.jpg");
+  font-style: normal;
+  background-color: rgba(174, 223, 154, 0.6);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+
+.rounded-pill{
+  height: 10rem;
+  width: 14rem;
+  
+  border-color: rgb(95, 94, 94);
+  border-style: solid;
+  
+}
+
+h5{
+  padding-left: 3%;
+  padding-top: 3%;
+  display: flex;
+  align-items: flex-start;
+}
+p {
+  display: flex;
+  align-items: center;
+}
+
+.btnMas{
+  padding: 1px 1px;
+  margin: 5% 5%;
+  height: 5%;
+  width: 5%;
+  display: flex;
+  cursor:pointer;
+  
+}
+
+.regalo{
+  width: 20%;
+  height: 40%;
+  cursor: pointer;
+}
+
+
+
